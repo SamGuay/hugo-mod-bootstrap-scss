@@ -16,5 +16,8 @@ target = "assets/scss/bootstrap"
 [[module.imports.mounts]]
 source = "js"
 target = "assets/js/bootstrap"
+[[module.imports.mounts]]
+source = "dist/js"
+target = "assets/vendor/bootstrap"
 [[module.imports]]
 path="github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2"
