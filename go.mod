@@ -1,4 +1,4 @@
-module github.com/gohugoio/hugo-mod-bootstrap-scss/v5
+module github.com/samguay/hugo-mod-bootstrap-scss/v5
 
 go 1.16
 
